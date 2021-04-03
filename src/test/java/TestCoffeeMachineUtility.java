@@ -42,13 +42,6 @@ public class TestCoffeeMachineUtility {
                 "        \"sugar_syrup\": 10,\n" +
                 "        \"tea_leaves_syrup\": 30\n" +
                 "      },\n" +
-                "      \"hot_coffee\": {\n" +
-                "        \"hot_water\": 100,\n" +
-                "        \"ginger_syrup\": 30,\n" +
-                "        \"hot_milk\": 400,\n" +
-                "        \"sugar_syrup\": 50,\n" +
-                "        \"tea_leaves_syrup\": 30\n" +
-                "      },\n" +
                 "      \"black_tea\": {\n" +
                 "        \"hot_water\": 300,\n" +
                 "        \"ginger_syrup\": 30,\n" +
@@ -83,13 +76,6 @@ public class TestCoffeeMachineUtility {
                 "      \"tea_leaves_syrup\": 100\n" +
                 "    },\n" +
                 "    \"beverages\": {\n" +
-                "      \"hot_tea\": {\n" +
-                "        \"hot_water\": 50,\n" +
-                "        \"hot_milk\": 100,\n" +
-                "        \"ginger_syrup\": 10,\n" +
-                "        \"sugar_syrup\": 10,\n" +
-                "        \"tea_leaves_syrup\": 30\n" +
-                "      },\n" +
                 "      \"hot_coffee\": {\n" +
                 "        \"hot_water\": 10,\n" +
                 "        \"ginger_syrup\": 30,\n" +
@@ -142,12 +128,6 @@ public class TestCoffeeMachineUtility {
                 "        \"hot_water\": 100,\n" +
                 "        \"ginger_syrup\": 30,\n" +
                 "        \"hot_milk\": 400,\n" +
-                "        \"sugar_syrup\": 50,\n" +
-                "        \"tea_leaves_syrup\": 30\n" +
-                "      },\n" +
-                "      \"black_tea\": {\n" +
-                "        \"hot_water\": 300,\n" +
-                "        \"ginger_syrup\": 30,\n" +
                 "        \"sugar_syrup\": 50,\n" +
                 "        \"tea_leaves_syrup\": 30\n" +
                 "      },\n" +
