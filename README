@@ -1,0 +1,12 @@
+Project Requirement.
+JDK above 7
+Latest version of the Maven
+
+Compile-
+    mvn clean install
+
+Run Test Cases
+    mvn test
+
+Run
+    java -jar target/coffee-machine-1.0-SNAPSHOT.jar
